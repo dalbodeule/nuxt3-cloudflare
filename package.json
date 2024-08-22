@@ -15,7 +15,11 @@
     "@nuxt/eslint": "^0.5.1",
     "@nuxthub/core": "^0.7.3",
     "@nuxtjs/turnstile": "^0.9.3",
+    "drizzle-orm": "^0.33.0",
     "nuxt": "^3.12.4",
     "vue": "latest"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.24.0"
   }
 }
